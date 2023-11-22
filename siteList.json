@@ -28,7 +28,13 @@
 	"sitename" : "Pagestory",
 	"image" : "https://github.com/jillina1004/imagebox/blob/main/I_Maple.png?raw=true",
 	"url" : "/pagestory/"
+	},
+	
+	{
+	"theme" : "git",
+	"sitename" : "Lessgo",
+	"image" : "https://github.com/jillina1004/imagebox/blob/main/I_Lego.png?raw=true",
+	"url" : "https://jillina10043210.github.io/LegoSite/"
 	}
-
 
 ]
