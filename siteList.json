@@ -2,25 +2,25 @@
 	{
 	"theme" : "git",
 	"sitename" : "ColorBank",
-	"image" : "./css/img/ext/cb",
+	"image" : "https://github.com/jillina1004/imagebox/blob/main/I_Colorbank.png?raw=true",
 	"url" : "https://jillina10043210.github.io/ColorBank/"
 	},
 	{
 	"theme" : "git",
 	"sitename" : "FontBank",
-	"image" : "./css/img/ext/FB",
+	"image" : "https://github.com/jillina1004/imagebox/blob/main/I_Fontbank.png?raw=true",
 	"url" : "https://jillina10043210.github.io/FontBank/"
 	},
 	{
 	"theme" : "live",
 	"sitename" : "Coingate",
-	"image" : "./css/img/ext/CG",
+	"image" : "https://github.com/jillina1004/imagebox/blob/main/I_Up.png?raw=true",
 	"url" : ":8080/coingate/"
 	},
 	{
 	"theme" : "git",
 	"sitename" : "Sdoku",
-	"image" : "./css/img/ext/SD",
+	"image" : "https://github.com/jillina1004/imagebox/blob/main/I_Sdoku.png?raw=true",
 	"url" : "https://jillina10043210.github.io/sdokujin/"
 	}
 
