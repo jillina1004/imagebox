@@ -16,6 +16,12 @@
 	"sitename" : "Coingate",
 	"image" : "./css/img/ext/CG",
 	"url" : ":8080/coingate/"
+	},
+	{
+	"theme" : "git",
+	"sitename" : "Sdoku",
+	"image" : "./css/img/ext/SD",
+	"url" : "https://jillina10043210.github.io/sdokujin/"
 	}
 
 
