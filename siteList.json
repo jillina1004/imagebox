@@ -15,7 +15,7 @@
 	"theme" : "live",
 	"sitename" : "Coingate",
 	"image" : "https://github.com/jillina1004/imagebox/blob/main/I_Up.png?raw=true",
-	"url" : ":8080/coingate/"
+	"url" : ":8443/coingate/"
 	},
 	{
 	"theme" : "git",
